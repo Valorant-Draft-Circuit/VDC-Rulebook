@@ -1,0 +1,4 @@
+site_name: VDC Rulebook
+site_url: http://valorantdraftcircuit.com
+markdown_extensions:
+  - def_list
